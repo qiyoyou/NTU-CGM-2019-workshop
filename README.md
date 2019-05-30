@@ -17,7 +17,7 @@ source /opt/miniconda3/bin/activate /opt/miniconda3/envs/qy/
 ### Data management (with PLINK)
 Perform quality control for "rawdata" and PCA for population stratification issue.   
 ```
-plink --bfile /home/train2019/qy/rawdata --geno 0.1 --maf 0.01 --mind 0.05 --hwe 0.000001 --make-bed --pca --out qcdata
+plink --bfile /home/train2019/qy/rawdata --geno 0.1 --maf 0.01 --mind 0.05 --hwe 0.000001 --make-bed --pca --out /home/train2019/stu60/qy/qcdata
 ```
 ```
 
