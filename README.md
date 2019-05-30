@@ -3,7 +3,7 @@
 
 <H2>
 
-### Active the environment 
+### Activate the environment (qy)
 ```
 source /opt/miniconda3/bin/activate /opt/miniconda3/envs/qy/
 ```
@@ -12,7 +12,8 @@ source /opt/miniconda3/bin/activate /opt/miniconda3/envs/qy/
 <H2>
 
 ### Data management (with PLINK)
-Perform quality control for "rawdata" and PCA for population stratification issue.   
+Perform quality control for "rawdata" and PCA for population stratification issue.
+Remember to change the stu** to save the output into your own folder.
 ```
 plink --bfile /home/train2019/qy/rawdata --geno 0.1 --maf 0.01 --mind 0.05 --hwe 0.000001 --make-bed --pca --out /home/train2019/stu60/qy/qcdata
 ```
