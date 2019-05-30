@@ -1,15 +1,6 @@
 # NTU-CGM-2019-workshop
 ## Genome-wide association analysis with application in R & PLINK
 
-### R markdown document links:
-1. [Basic R command](https://drive.google.com/file/d/1QeyPQ8XLzIM8e306mZYcj9QuzTVEIgZI/view?usp=sharing)
-1. [Basic R command](http://drive-html-viewer.pansy.at/?state=%7B%22ids%22:%5B%221QeyPQ8XLzIM8e306mZYcj9QuzTVEIgZI%22%5D,%22action%22:%22open%22,%22userId%22:%22{userId}%22%7D)
-
-
-2. [PCA](https://drv.tw/~r05849048@g.ntu.edu.tw/gd/CGM work/2019_CGM_workshop/Example_Rcode/01_PCA_rmd.html)
-
-
-
 <H2>
 
 ### Active the environment 
@@ -27,7 +18,15 @@ plink --bfile /home/train2019/qy/rawdata --geno 0.1 --maf 0.01 --mind 0.05 --hwe
 ```
 ```
 
+<H2>
+
+### R markdown document links:
+1. [Basic R command](https://drive.google.com/file/d/1QeyPQ8XLzIM8e306mZYcj9QuzTVEIgZI/view?usp=sharing)
+1. [Basic R command](http://drive-html-viewer.pansy.at/?state=%7B%22ids%22:%5B%221QeyPQ8XLzIM8e306mZYcj9QuzTVEIgZI%22%5D,%22action%22:%22open%22,%22userId%22:%22{userId}%22%7D)
 
 
+2. [PCA](https://drv.tw/~r05849048@g.ntu.edu.tw/gd/CGM work/2019_CGM_workshop/Example_Rcode/01_PCA_rmd.html)
+
+2. [PCA](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/01_PCA_rmd.html)
 
 
