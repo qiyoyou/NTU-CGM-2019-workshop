@@ -16,17 +16,16 @@ Perform quality control for "rawdata" and PCA for population stratification issu
 ```
 plink --bfile /home/train2019/qy/rawdata --geno 0.1 --maf 0.01 --mind 0.05 --hwe 0.000001 --make-bed --pca --out /home/train2019/stu60/qy/qcdata
 ```
-```
 
 <H2>
 
 ### R markdown document links:
-1. [Basic R command](https://drive.google.com/file/d/1QeyPQ8XLzIM8e306mZYcj9QuzTVEIgZI/view?usp=sharing)
-1. [Basic R command](http://drive-html-viewer.pansy.at/?state=%7B%22ids%22:%5B%221QeyPQ8XLzIM8e306mZYcj9QuzTVEIgZI%22%5D,%22action%22:%22open%22,%22userId%22:%22{userId}%22%7D)
+1. Basic R command [rmd](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/00_Basic_rmd.html) keep updating...
+
+2. PCA [rmd](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/01_PCA_rmd.html)
+
+3. Analysis [rmd](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/02_analysis.html)
 
 
-2. [PCA](https://drv.tw/~r05849048@g.ntu.edu.tw/gd/CGM work/2019_CGM_workshop/Example_Rcode/01_PCA_rmd.html)
-
-2. [PCA](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/01_PCA_rmd.html)
 
 
