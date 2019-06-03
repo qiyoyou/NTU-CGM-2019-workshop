@@ -12,8 +12,7 @@ source /opt/miniconda3/bin/activate /opt/miniconda3/envs/qy/
 <H2>
 
 ### Data management (with PLINK)
-Perform quality control for "rawdata" and PCA for population stratification issue.
-Remember to change the stu** to save the output into your own folder.
+Perform quality control for "rawdata" and PCA for population stratification issue. '/home/train2019/qy/' is the path for 'rawdata'; '/home/train2019/${whoami}/qy/' is the path for storing the output which here is named 'qcdata'. You can change the output filename (here is 'qcdata') whatwver you like.
 ```
 plink --bfile /home/train2019/qy/rawdata --geno 0.1 --maf 0.01 --mind 0.05 --hwe 0.000001 --make-bed --pca --out /home/train2019/${whoami}/qy/qcdata
 ```
