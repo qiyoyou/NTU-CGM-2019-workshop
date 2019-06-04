@@ -10,6 +10,11 @@ PDF file [[link to the slide]](https://drive.google.com/file/d/1usAGH5mMQVNgzIZv
 
 Example Data [[link to the data]](https://drive.google.com/file/d/12GakkcKLLRKF2Y9BAWJ91aHX1T7Koq0E/view?usp=sharing)
 
+Note1: The HapMap III raw data are processed by totally following the reference (https://cran.r-project.org/web/packages/plinkQC/vignettes/HapMap.pdf). To easily display the data management process, some addtional data manipulation was conducted.
+
+Note2: Traits are simulated via generalized linear model (GLM) in R.
+
+
 <H2>
 
 ### Activate the environment (qy)
