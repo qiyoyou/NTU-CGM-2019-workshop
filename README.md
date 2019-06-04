@@ -38,7 +38,7 @@ plink --bfile /home/train2019/qy/rawdata --geno 0.1 --maf 0.01 --mind 0.05 --hwe
 
 2. **PCA** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/01_PCA_rmd.html) [[txt]](https://drive.google.com/file/d/1gixSzyMbxKmbEls2vq25wu0oCzd6LvY8/view?usp=sharing)
 
-3. **Analysis** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/02_analysis.html)
+3. **Analysis** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/02_analysis.html) [[txt]](https://drive.google.com/file/d/1y9QSm_MEjFnhj1v09F0oK8748-J-J5Wl/view?usp=sharing)
 
-4. **Manhattan plot** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/03_manhattan_plot_rmd.html)
+4. **Manhattan plot** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/03_manhattan_plot_rmd.html) [[txt]](https://drive.google.com/file/d/181dv75P4cFqzK-f68Ncu-NL6D_ka1PhQ/view?usp=sharing)
 
