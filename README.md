@@ -36,7 +36,7 @@ plink --bfile /home/train2019/qy/rawdata --geno 0.1 --maf 0.01 --mind 0.05 --hwe
 ### R markdown document links:
 1. **Basic R command** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/00_Basic_rmd.html) keep updating...
 
-2. **PCA** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/01_PCA_rmd.html)
+2. **PCA** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/01_PCA_rmd.html) [[txt]](https://drive.google.com/file/d/1gixSzyMbxKmbEls2vq25wu0oCzd6LvY8/view?usp=sharing)
 
 3. **Analysis** [[rmd]](https://juuyhcngvzilmlh4agozha-on.drv.tw/CGM%20work/2019_CGM_workshop/WWW/02_analysis.html)
 
