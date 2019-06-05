@@ -14,6 +14,8 @@ Note1: The HapMap III raw data are processed by totally following the reference 
 
 Note2: Traits are simulated via generalized linear model (GLM) in R.
 
+Note3: there's a reference about the criteria of sample relatedness:
+Data quality control in genetic case-control association studies. Nat Protoc. 5, 1564–1573 (2010). DOI: 10.1038/nprot.2010.116
 
 <H2>
 
